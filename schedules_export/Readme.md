@@ -1,5 +1,5 @@
 
-## Python File to export all Schedules within one revit File
+## 1. Python File to export all Schedules within one revit File
 
 `simple_schedule_extract.py` - has the python script to extract all necessary schedules from one revit file in one click
 
@@ -13,7 +13,7 @@ Creating one-click button _inside_ revit
 * https://daren-thomas.gitbooks.io/scripting-autodesk-revit-with-revitpythonshell/content/external_scripts.html
 
 
-## Data Aggregation of Modules and Scheules
+## 2. Data Aggregation of Modules and Scheules
 
 #### Prerequisite:
 
