@@ -17,7 +17,7 @@ Creating one-click button _inside_ revit
 
 #### Prerequisite:
 
-* Install Anaconda, to install python and it's necessary packages
+* Install Anaconda, to install python, jupyter notebook and it's necessary packages
 * We will be using Jupypter notebook to run the python files as it is a neat and clean way to display python code
 * Installation Instructions: https://test-jupyter.readthedocs.io/en/latest/install.html
 
